@@ -13,7 +13,6 @@
         <hr>
         <ul>
             <li>{{.ClientIP}</li>
-            <li>{{.ClientUA}</li>
         </ul>
 </body>
 
