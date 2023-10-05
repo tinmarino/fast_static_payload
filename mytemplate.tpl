@@ -8,10 +8,10 @@
 </head>
 
 <body>
-<h1>Available template data</h1>
+<h1>Available template data v1</h1>
 <hr>
 <ul>
-<li>{{ClientIP}}</li>
+<li>{{.ClientIP}}</li>
 <li>ClientUA</li>
 <li>ClientIpInfo.IpVersion</li>
 <li>ClientIpInfo.IpAddress</li>
